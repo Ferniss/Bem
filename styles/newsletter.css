@@ -1,0 +1,14 @@
+.news {
+    width: 50%;
+    float:left;
+}
+.news2{
+    width: 50%;
+    float: right;
+}
+.last{
+    text-align: center; 
+}
+.space{
+    margin: 0 1em;
+}
